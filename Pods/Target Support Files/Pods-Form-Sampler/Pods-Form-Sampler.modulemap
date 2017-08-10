@@ -1,0 +1,6 @@
+framework module Pods_Form_Sampler {
+  umbrella header "Pods-Form-Sampler-umbrella.h"
+
+  export *
+  module * { export * }
+}
